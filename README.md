@@ -178,3 +178,8 @@ Goal: mastery or ego death
 If you **can’t comfortably solve 70+ of these**, you are **not “mastering Swift”** — you’re just productive.
 
 To tell the truth it is by chatgpt. But I will do it.  
+
+# Gemini-Tasks.
+
+I also generated new tasks from gemine. 
+Here it is [Path to Google](https://share.google/aimode/J1wafNB684SSFL6QX)
